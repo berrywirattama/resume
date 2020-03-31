@@ -9,7 +9,7 @@ basics:
     where I can apply my technical knowledge and skills for continuous improvement.
   location:
     countryCode: ID
-    region: DKI Jakarta, Indonesia
+    region: DKI Jakarta
   profiles:
     - network: Twitter
       username: berryory
@@ -94,6 +94,7 @@ work:
     startDate: '2007-08-01'
     endDate: '2011-02-01'
     summary: Working closely with software engineer team to understand the overall system inside out and come up with solution such as server tuning, application tuning, monitoring metrics and other interesting stuff.
+
 awards: []
 volunteer: []
 references: []
@@ -103,6 +104,7 @@ education:
     studyType: Diploma
     startDate: '2002-07-01'
     endDate: '2013-08-01'
+publications: []
 skills:
   - name: Orchestration & Infra as a code
     level: Master
