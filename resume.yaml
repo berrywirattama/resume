@@ -1,0 +1,175 @@
+basics:
+  name: Berry Wirattama
+  label: DevOps Engineer
+  picture: https://secure.gravatar.com/avatar/b5e533a14144b4ef5633545cdd008493
+  email: berry.wirattama@gmail.com
+  website: https://berrywirattama.github.io
+  summary: |
+    I am a DevOps engineer seeking a full-time position in the field of any related,
+    where I can apply my technical knowledge and skills for continuous improvement.
+  location:
+    countryCode: ID
+    region: DKI Jakarta, Indonesia
+  profiles:
+    - network: Twitter
+      username: berryory
+      url: https://twitter.com/berryory
+    - network: GitHub
+      username: berrywirattama
+      url: https://github.com/berrywirattama
+    - network: LinkedIn
+      username: berrywirattama
+      url: https://www.linkedin.com/in/berry-wirattama/
+work:
+  - company: PT. Aliansi Teknologi Indonesia (Dana Indonesia)
+    position: Senior staff SRE (Lead)
+    website: https://dana.id/
+    startDate: '2019-10-01'
+    summary: Build and manage the largest system payment solution
+    highlights:
+      - still empty
+
+  - company: PT SimpleFi Teknologi Indonesia
+    position: DevOps (Lead)
+    website: https://www.awantunai.co.id/
+    startDate: '2018-07-01'
+    endDate: '2019-10-01'
+    summary: Bring unbanked people into technology
+    highlights:
+      - Bring unbanked people into technology.
+      - Rebuild infrastructure & migrate to Alicloud.
+      - Help engineering & data team, define diagram & flow, including stack.
+      - Working closely with any member team and report to CTO.
+      - Design CICD schema and implement, including versioning.
+      - Design logging stack.
+      - Design Monitoring stack.
+      - Provide any necesary development.
+      - Any request manual, convert to automation.
+      - Define security concern, before release.
+      - Design server schema.
+      - Design API Gateway.
+
+  - company: PT. Talenta Digital Nusantara
+    position: DevOps (Senior Level)
+    website: https://www.talenta.co/
+    startDate: '2017-12-01'
+    endDate: '2018-07-01'
+    summary: Build and managed HRIS System \#1 Indonesia
+    highlights:
+      - Change development flow.
+      - Responsibility Production Server.
+      - Migration Server to Good Schema.
+      - Migaration deploybot to Jenkins.
+      - Manage Logging (log.io).
+
+  - company: Netzme Pte Ltd
+    position: DevOps (Middle Level)
+    website: https://www.netzme.com
+    startDate: '2014-12-01'
+    endDate: '2017-12-01'
+    summary: Build the largest system chat and social media Indonesia
+    highlights:
+      - Create automatic delivery code to binary with jenkins and GoCD.
+      - Collaborate with software engineer team, build and running a large scale distributed messaging system to support and grow our large and passionate user base.
+      - Create metric and monitoring for technical and business. ( DataDog, Stackdriver, Monit, etc)
+      - Scripting with shell script, manage auto running service in server.
+      - Manage all log. ( Loggy, logstash, Logz, Log.io )
+      - Automate the management of hundred of servers.
+      - Make sure all 3rd party service have alert.
+      - Create test stress, and capacity planning.
+      - Container running on environment development, staging and production.
+      - How to make draining server until service up again or update.
+      - Supported HA services and administrated postgres, Amazon EC2 and another 3rd Party.
+      - Implement canary update for each deployment.
+      - Provided assistance to engineers on performance tuning for critical areas. Optimized server performance, accuracy, failover and scale.
+      - Developed and managed delivery pipeline and prioritized functioning period and quick server response time.
+      - Handled cloud administration tools and management.
+      - Collaborated with development team to troubleshot and resolve issues. Implemented and managed framework for evaluating application performance. Provided support to conduct system testing and integrated more servers to the infrastructure.
+      - Design, implementation and deliverance of software and infrastructure can be used.
+      - Managed and executed zero-downtime production phrases.
+
+  - company: PT. Quantumfin
+    position: System Administrator (Junior Level)
+    website: Close
+    startDate: '2007-08-01'
+    endDate: '2011-02-01'
+    summary: Working closely with software engineer team to understand the overall system inside out and come up with solution such as server tuning, application tuning, monitoring metrics and other interesting stuff.
+awards: []
+volunteer: []
+references: []
+education:
+  - institution: Padjadjaran University
+    area: Computer Engineering
+    studyType: Diploma
+    startDate: '2002-07-01'
+    endDate: '2013-08-01'
+skills:
+  - name: Orchestration & Infra as a code
+    level: Master
+    keywords:
+      - Terraform
+      - Ansible
+      - Docker
+      - Jenkinsfile
+      - AWS Cloudformation
+      - Vagrant
+  - name: Container
+    level: Master
+    keywords:
+      - Kubernetes
+      - Mesos
+      - Rancher
+      - EKS
+      - AKS
+      - GKE
+      - HELM
+  - name: Programming language
+    level: Master
+    keywords:
+      - Python
+      - BASH
+  - name: SCM
+    level: Master
+    keywords:
+      - GIT
+      - SVN
+  - name: Messaging queue
+    level: Master
+    keywords:
+      - Rabbitmq
+      - Kafka
+  - name: Monitoring tools
+    level: Master
+    keywords:
+      - Datadog
+      - Stackdriver
+      - Grafana
+  - name: Logging tools
+    level: Master
+    keywords:
+      - log.io
+      - logdna
+      - logz
+      - sumologic
+      - stackdriver
+  - name: Cloud Platform
+    level: Master
+    keywords:
+      - AWS
+      - Alibaba
+      - GCP
+      - Huawei Cloud
+  - name: CICD
+    level: Master
+    keywords:
+      - Jenkins
+      - GoCD
+      - Jenkins X
+      - Argo
+languages:
+  - language: English
+  - language: Indonesia
+interests:
+  - name: Basket
+  - name: Mobile Games
+  - name: Running
