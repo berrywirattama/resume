@@ -26,9 +26,16 @@ work:
     website: https://dana.id/
     startDate: '2019-10-01'
     summary: Build and manage the largest system payment solution
-    highlights:
-      - still empty
-
+  - company: PT. Sosial Teknologi Indonesia (Project base)
+    position: advisor
+    website: https://www.japfacomfeed.co.id/id (Japfa Comfeed Indonesia)
+    startDate: '2019-03-01'
+    summary: ERP and point of sales Project
+  - company: PT. Sosial Teknologi Indonesia (Project base)
+    position: advisor
+    website: https://www.dexagroupcareer.com (Inertia Utama)
+    startDate: '2019-08-01'
+    summary: Managed IAAS and big data
   - company: PT SimpleFi Teknologi Indonesia
     position: DevOps (Lead)
     website: https://www.awantunai.co.id/
@@ -48,7 +55,6 @@ work:
       - Define security concern, before release.
       - Design server schema.
       - Design API Gateway.
-
   - company: PT. Talenta Digital Nusantara
     position: DevOps (Senior Level)
     website: https://www.talenta.co/
@@ -61,7 +67,6 @@ work:
       - Migration Server to Good Schema.
       - Migaration deploybot to Jenkins.
       - Manage Logging (log.io).
-
   - company: Netzme Pte Ltd
     position: DevOps (Middle Level)
     website: https://www.netzme.com
@@ -87,14 +92,12 @@ work:
       - Collaborated with development team to troubleshot and resolve issues. Implemented and managed framework for evaluating application performance. Provided support to conduct system testing and integrated more servers to the infrastructure.
       - Design, implementation and deliverance of software and infrastructure can be used.
       - Managed and executed zero-downtime production phrases.
-
   - company: PT. Quantumfin
     position: System Administrator (Junior Level)
     website: Close
     startDate: '2007-08-01'
     endDate: '2011-02-01'
     summary: Working closely with software engineer team to understand the overall system inside out and come up with solution such as server tuning, application tuning, monitoring metrics and other interesting stuff.
-
 awards: []
 volunteer: []
 references: []
@@ -104,6 +107,11 @@ education:
     studyType: Diploma
     startDate: '2002-07-01'
     endDate: '2013-08-01'
+  - institution: Alibaba certification
+    area: cloud computing
+    studyType: Alibaba cloud certification associate (ACA)
+    startDate: '2020-01-21'
+    endDate: '2022-01-21'
 publications: []
 skills:
   - name: Orchestration & Infra as a code
