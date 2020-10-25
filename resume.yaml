@@ -25,7 +25,20 @@ work:
     position: Senior staff SRE (Lead)
     website: https://dana.id/
     startDate: '2019-10-01'
-    summary: Build and manage the largest system payment solution
+    endDate: '2020-10-23'
+    summary: Build and manage the largest e-wallet Indonesia
+    highlights:
+      - Manage and supervision SRE teams
+      - Manage DANA core and Satelite apps
+      - Inisiate and control project on SRE teams
+      - Planning and do finishing with team on each project
+      - Bring teams to ready new stack
+      - Migrate Satelite apps to Kubernetes
+      - Create IaaS and PaaS to support Dana core & Satelite apps
+      - Research to improvement
+      - Guiding teams according to interests
+      - Do 1 on 1 biweekly with member
+      - Prototype new architecture
   - company: PT. Sosial Teknologi Indonesia (Project base)
     position: advisor
     website: https://www.japfacomfeed.co.id/id (Japfa Comfeed Indonesia)
