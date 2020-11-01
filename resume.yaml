@@ -43,11 +43,13 @@ work:
     position: advisor
     website: https://www.japfacomfeed.co.id/id (Japfa Comfeed Indonesia)
     startDate: '2019-03-01'
+    endDate: '2019-07-01'
     summary: ERP and point of sales Project
   - company: PT. Sosial Teknologi Indonesia (Project base)
     position: advisor
     website: https://www.dexagroupcareer.com (Inertia Utama)
     startDate: '2019-08-01'
+    endDate: '2020-12-01'
     summary: Managed IAAS and big data
   - company: PT SimpleFi Teknologi Indonesia
     position: DevOps (Lead)
@@ -108,8 +110,8 @@ work:
   - company: PT. Quantumfin
     position: System Administrator (Junior Level)
     website: Close
-    startDate: '2007-08-01'
-    endDate: '2011-02-01'
+    startDate: '2013-08-01'
+    endDate: '2014-12-01'
     summary: Working closely with software engineer team to understand the overall system inside out and come up with solution such as server tuning, application tuning, monitoring metrics and other interesting stuff.
 awards: []
 volunteer: []
@@ -118,13 +120,18 @@ education:
   - institution: Padjadjaran University
     area: Computer Engineering
     studyType: Diploma
-    startDate: '2002-07-01'
+    startDate: '2010-07-01'
     endDate: '2013-08-01'
   - institution: Alibaba certification
     area: cloud computing
     studyType: Alibaba cloud certification associate (ACA)
     startDate: '2020-01-21'
     endDate: '2022-01-21'
+  - institution: Alibaba certification
+    area: cloud computing
+    studyType: Alibaba cloud certification professional (ACP)
+    startDate: '2020-07-22'
+    endDate: '2022-07-22'
 publications: []
 skills:
   - name: Orchestration & Infra as a code
