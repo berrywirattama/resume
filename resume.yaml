@@ -21,6 +21,27 @@ basics:
       username: berrywirattama
       url: https://www.linkedin.com/in/berry-wirattama/
 work:
+  - company: PT. Tibeka Logistic Indonesia (Waresix)
+    position: Tech Lead DevOps
+    website: https://www.waresix.com
+    startDate: '2020-10-25'
+    summary: Build Transport management system SME and Enterprise
+    highlights:
+      - Manage and supervision DevOps teams
+      - Create milestone DevOps
+      - Control project on DevOps teams
+      - Migrate cloud from GCP to AWS
+      - Revamp architecture cloud (Kubernetes)
+      - Advisor to oncall model & OKR on company
+      - Inisiate incident response and postmortem result
+      - Create new flow branching and development flow
+      - CICD end-to-end, integration, delivery, deployment, tagging, and rollback
+      - Guiding teams according to interests
+      - Do 1 on 1 biweekly with member
+      - Prototype new architecture
+      - Influence unittest & stylecode
+      - Fixing security problem
+      - Practice cloud control 
   - company: PT. Aliansi Teknologi Indonesia (Dana Indonesia)
     position: Senior staff SRE (Lead)
     website: https://dana.id/
@@ -41,16 +62,16 @@ work:
       - Prototype new architecture
   - company: PT. Sosial Teknologi Indonesia (Project base)
     position: advisor
-    website: https://www.japfacomfeed.co.id/id (Japfa Comfeed Indonesia)
-    startDate: '2019-03-01'
-    endDate: '2019-07-01'
-    summary: ERP and point of sales Project
-  - company: PT. Sosial Teknologi Indonesia (Project base)
-    position: advisor
     website: https://www.dexagroupcareer.com (Inertia Utama)
     startDate: '2019-08-01'
     endDate: '2020-12-01'
     summary: Managed IAAS and big data
+  - company: PT. Sosial Teknologi Indonesia (Project base)
+    position: advisor
+    website: https://www.japfacomfeed.co.id/id (Japfa Comfeed Indonesia)
+    startDate: '2019-03-01'
+    endDate: '2019-07-01'
+    summary: ERP and point of sales Project
   - company: PT SimpleFi Teknologi Indonesia
     position: DevOps (Lead)
     website: https://www.awantunai.co.id/
