@@ -26,7 +26,7 @@ work:
     website: https://sotech.co.id/
     startDate: '2020-03-01'
     summary: Help sotech to handling customer migration and maintenance
-    Highlights:
+    highlights:
       - Helping Prakerja to build kubernetes and istio in Alibabacloud
       - Helping Tapera to build infrastructure from scratch
       - Migration onprem to Alibabacloud (Danakini)
