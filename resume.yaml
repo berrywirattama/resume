@@ -21,6 +21,18 @@ basics:
       username: berrywirattama
       url: https://www.linkedin.com/in/berry-wirattama/
 work:
+  - company: PT. Sosial Teknologi Indonesia (Project base)
+    position: Principal DevOps
+    website: https://sotech.co.id/
+    startDate: '2020-03-01'
+    summary: Help sotech to handling customer migration and maintenance
+    Highlights:
+      - Helping Prakerja to build kubernetes and istio in Alibabacloud
+      - Helping Tapera to build infrastructure from scratch
+      - Migration onprem to Alibabacloud (Danakini)
+      - Migration onprem to AWS (SML)
+      - Setup Anti DDoS BJB
+      - Supporting some client in Alibabacloud
   - company: PT. Tibeka Logistic Indonesia (Waresix)
     position: DevOps Manager
     website: https://www.waresix.com
