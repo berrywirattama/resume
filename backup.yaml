@@ -1,0 +1,20 @@
+  - startDate: '2020-10-25'
+    endDate: '2023-08-31'
+    summary: Build Transport management system SME and Enterprise
+    highlights:
+      - Manage and supervision SRE, DBA, DevOps & Security teams
+      - Create milestone of project for each team
+      - Control project on Tech Ops team
+      - Migrate cloud from GCP to AWS
+      - Revamp architecture cloud (Kubernetes)
+      - Advisor to oncall model & OKR on company
+      - Inisiate incident response and postmortem result
+      - Create new flow branching and development flow
+      - CICD end-to-end, integration, delivery, deployment, tagging, and rollback
+      - Guiding teams according to interests
+      - Do 1 on 1 biweekly with member
+      - Prototype new architecture
+      - Influence unittest & stylecode
+      - Fixing security problem
+      - Practice cloud control
+      - Convert request on-call into slackbot(self service)
