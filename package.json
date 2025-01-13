@@ -16,7 +16,7 @@
     "deploy": "gh-pages -b gh-pages -d public"
   },
   "dependencies": {
-    "gh-pages": "^2.1.1",
+    "gh-pages": "^5.0.0",
     "js-yaml": "^3.13.1",
     "jsonresume-theme-elegant": "^1.13.1",
     "memcached-cli": "^1.0.3",
